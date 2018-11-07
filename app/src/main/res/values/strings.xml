@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PFinalSAMAPP</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Siguiente</string>
 </resources>
