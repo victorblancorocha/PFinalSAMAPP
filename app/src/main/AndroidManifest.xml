@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ConsultarProyector" />
+        <activity android:name=".ReservarAudiovisual" />
+        <activity android:name=".SplashActivity"></activity>
     </application>
 
 </manifest>
