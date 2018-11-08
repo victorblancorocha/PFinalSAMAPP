@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Creacion de variables miembro
     private Button mMaButton;
+    // Boton
     private Button mProyectButton;
     private TextView mPrincipalText;
     private String mNameR;
